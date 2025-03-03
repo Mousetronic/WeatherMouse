@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #313131;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #ffff;
+    text-align: center;
+    margin-top: 20px;
+}
+
+#weather {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #082a3a;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(254, 254, 254, 0.947);
+}
+
